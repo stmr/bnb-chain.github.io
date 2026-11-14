@@ -64,6 +64,8 @@ You could find more endpoints from **[here](https://chainlist.org/chain/56)**.
 
 * **Blockmachine:** <https://blockmachine.io/bnb-chain-rpc>
 
+To compare these and other BNB Smart Chain RPC providers by plan, access price, and archive or pruned history on mainnet and testnet, see the [Chain.Love BSC API directory](https://bsc.chain.love/toolbox/apis). Check each provider's documentation for current endpoints and limits.
+
 ### Starting HTTP JSON-RPC
 
 You can start the HTTP JSON-RPC with the --http flag
